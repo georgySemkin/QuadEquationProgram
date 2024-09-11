@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadEquationProgram", "QuadEquationProgram\QuadEquationProgram.csproj", "{F4046FC3-4B10-4036-8282-46FBA753EC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadEquationTests", "QuadEquationTests\QuadEquationTests.csproj", "{987534F8-BE5A-4EB9-90BF-D9A109D50EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4046FC3-4B10-4036-8282-46FBA753EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4046FC3-4B10-4036-8282-46FBA753EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4046FC3-4B10-4036-8282-46FBA753EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4046FC3-4B10-4036-8282-46FBA753EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987534F8-BE5A-4EB9-90BF-D9A109D50EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987534F8-BE5A-4EB9-90BF-D9A109D50EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987534F8-BE5A-4EB9-90BF-D9A109D50EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987534F8-BE5A-4EB9-90BF-D9A109D50EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D87704C-7230-4154-B4EA-3ECBA9784EB1}
+	EndGlobalSection
+EndGlobal
